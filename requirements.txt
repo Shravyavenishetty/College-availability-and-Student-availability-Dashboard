@@ -1,2 +1,6 @@
 openpyxl
 streamlit
+appwrite
+plotly
+pandas
+dotenv
